@@ -2,32 +2,26 @@ body {
     background-color:rgb(14, 106, 160);
 }
 
-h1{
+h1 {
     text-align: center;
     color: white;
     font-family: garamond;
 }
 
-h2{
+h2 {
     
     color: white;
     font-family: garamond;
 }
 
-p{
+p {
     
     color: white;
     font-family: garamond;
 }
 
-ul{
-    
-    color: white;
-    font-family: garamond;
-}
 
-li{
-    
+ul {
+    list-style: none;
     color: white;
-    font-family: garamond;
-}
+  }
